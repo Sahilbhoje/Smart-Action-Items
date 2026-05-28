@@ -2,3 +2,8 @@ fastapi
 uvicorn
 openai
 requests
+
+# Testing
+pytest
+pytest-mock
+httpx           # required by FastAPI's TestClient
